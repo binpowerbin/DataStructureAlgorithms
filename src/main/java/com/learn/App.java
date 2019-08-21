@@ -1,4 +1,4 @@
-package com.learn.structure;
+package com.learn;
 
 /**
  * Hello world!
