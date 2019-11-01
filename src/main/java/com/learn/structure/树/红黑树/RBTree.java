@@ -1,4 +1,4 @@
-package com.learn.structure.tree;
+package com.learn.structure.树.红黑树;
 
 import java.util.Scanner;
 
